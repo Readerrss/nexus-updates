@@ -52,6 +52,6 @@ We are constantly evolving. Here is what we are building next:
 
 Ready to step in? Visit the link below to claim your Shadow Name and start exploring.
 
-👉 **<a href="https://nexus-chat-cb904.firebaseapp.com/" target="_blank">Enter Nexus Vibe</a>**
+👉 **<a href="https://nexus-chat-cb904.firebaseapp.com/" target="_blank" rel="noopener noreferrer">Enter Nexus Vibe</a>**
 
 **Built for the future. Built for the Grid.**
