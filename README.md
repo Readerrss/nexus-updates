@@ -15,7 +15,7 @@ Nexus Vibe provides a centralized "Grid" for digital interaction, combining high
 
 ## ✨ Why the project is useful
 
-The latest v3.2 update transforms the platform into a rock-solid native experience with several key benefits:
+The latest v2.0 update transforms the platform into a rock-solid native experience with several key benefits:
 
 *   **WhatsApp Compatibility**: Implements lazy-loading media logic to prevent microphone hijacking, ensuring third-party apps like WhatsApp remain fully functional.
 *   **Intelligent Tagging**: A fully fixed mention engine (@) that triggers instant, reliable notifications for direct call-outs.
